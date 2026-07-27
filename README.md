@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a curious frontend developer with 3+ years of experience.<br>I focus on CRM systems, interactive widgets and dynamic forms.<br>
+I'm a curious frontend developer with 3+ years of experience.<br>I focus on CRM systems, interactive widgets and dynamic forms.<br> I consistently boost interfaces UI performance measuring Core Web Vitals for a smoother UX.<br>
 
 
 # 💻 Tech Stack:
